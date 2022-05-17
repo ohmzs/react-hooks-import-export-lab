@@ -3,9 +3,9 @@ import React from "react";
 
 function NavBar() {
   return (
-    <nav id="nav">
+    <nav>
       <a href="#home">I'm a link!</a>
     </nav>
   );
 }
-export default function NavBar();
+export default NavBar;
